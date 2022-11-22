@@ -8,7 +8,7 @@ This is an example of a REST API using auth tokens with Laravel Sanctum
 
 For PostgreSQL, add
 ```
-DB_CONNECTION=postgresql
+DB_CONNECTION=pgsql
 DB_HOST=127.0.0.1
 DB_PORT=5432
 DB_DATABASE=YOUR_DATABASE_NAME
